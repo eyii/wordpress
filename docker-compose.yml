@@ -6,6 +6,8 @@ services:
     hostname: db
     container_name: db
     image: dockerliweipei/wordpress:db
+    volumes:
+      - ./db:/var/lib/mysql
     environment:
       MYSQL_ROOT_PASSWORD: root
       MYSQL_DATABASE: test
