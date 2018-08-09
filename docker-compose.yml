@@ -2,7 +2,7 @@ version: '3.3'
 services:
   db:
     build:
-      ./db
+      ./docker/db
     container_name: db
     image: dockerliweipei/wordpress:db
     environment:
@@ -14,7 +14,7 @@ services:
     restart : always
   redis:
     build:
-     ./redis
+     ./docker/redis
     container_name: redis
     image: redis:latest
     command: redis-server --requirepass "redis" --appendonly yes
@@ -22,14 +22,14 @@ services:
       - 6379:6379
   memcached:
     build:
-     ./memcached
+     ./docker/memcached
     container_name: memcached
     image: memcached:latest
     ports:
       - 11211:11211
   php:
     build:
-      ./wordpress
+      ./docker/wordpress
     hostname: php
     container_name: php
     image: dockerliweipei/wordpress:php
