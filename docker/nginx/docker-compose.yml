@@ -1,0 +1,42 @@
+version: '3.3'
+services:
+  db:
+    build:
+      ./db
+    container_name: db
+    image: dockerliweipei/wordpress:db
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: test
+      LANG: C.UTF-8
+    ports:
+      - 3306:3306
+    restart : always
+  redis:
+    build:
+     ./redis
+    container_name: redis
+    image: redis:latest
+    command: redis-server --requirepass "redis" --appendonly yes
+    ports:
+      - 6379:6379
+  memcached:
+    build:
+     ./memcached
+    container_name: memcached
+    image: memcached:latest
+    ports:
+      - 11211:11211
+  php:
+    build:
+      ./wordpress
+    hostname: php
+    container_name: php
+    image: dockerliweipei/wordpress:php
+    restart: always
+    ports:
+      - 80:80
+    environment:
+      WORDPRESS_DB_PASSWORD: root
+      WORDPRESS_DB_HOST: db
+      WORDPRESS_DB_USER: root
