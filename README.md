@@ -1,6 +1,6 @@
 #### shell
 vi /root/.bashrc
-
+alias dps='docker ps'
 alias da='docker attach xdebug'
 alias dall='docker ps -a'
 alias db='docker build -t dockerliweipei/xdebug:latest .'
