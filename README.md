@@ -28,7 +28,41 @@ source /root/.bashrc
     192.168.23.128       q.cn
    192.168.23.128       h.cn
 
-``###docker
+###docker
+
+  db:
+    build:
+      ./docker/db
+    hostname: db
+    container_name: db
+    image: dockerliweipei/wordpress:db
+    volumes:
+      - ./db:/var/lib/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: test
+      LANG: C.UTF-8
+    ports:
+      - 3306:3306
+    restart : always
+  redis:
+    build:
+     ./docker/redis
+    container_name: redis
+    image: redis:latest
+    command: redis-server --requirepass "redis" --appendonly yes
+    ports:
+      - 6379:6379
+  memcached:
+    build:
+     ./docker/memcached
+    container_name: memcached
+    image: memcached:latest
+    ports:
+      - 11211:11211
+
+
+
 
 https://hub.docker.com/r/dockerliweipei/xdebug/tags/
 https://hub.docker.com/r/dockerliweipei/xdebug/
