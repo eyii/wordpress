@@ -21,8 +21,8 @@
       <file leaf-file-name="docker-compose.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docker-compose.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="31" column="19" lean-forward="false" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+            <state relative-caret-position="152">
+              <caret line="43" column="6" lean-forward="true" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
               <folding>
                 <element signature="e#9#14#0" expanded="false" />
                 <element signature="e#27#325#0" expanded="false" />
@@ -52,12 +52,17 @@
                 <element signature="e#599#615#0" expanded="false" />
                 <element signature="e#620#646#0" expanded="false" />
                 <element signature="e#635#646#0" expanded="false" />
+                <element signature="e#649#814#0" expanded="false" />
                 <element signature="e#698#701#0" expanded="false" />
                 <element signature="e#722#725#0" expanded="false" />
                 <element signature="e#737#765#0" expanded="false" />
                 <element signature="e#779#785#0" expanded="false" />
                 <element signature="e#790#814#0" expanded="false" />
                 <element signature="e#805#814#0" expanded="false" />
+                <element signature="e#1145#1147#0" expanded="false" />
+                <element signature="e#1173#1177#0" expanded="false" />
+                <element signature="e#1207#1211#0" expanded="false" />
+                <element signature="e#1236#1239#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -358,12 +363,12 @@
       <workItem from="1533822970653" duration="2189000" />
       <workItem from="1533867912052" duration="10894000" />
       <workItem from="1533882732744" duration="125000" />
-      <workItem from="1533882910351" duration="15415000" />
+      <workItem from="1533882910351" duration="15495000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32201000" />
+    <option name="totallyTimeSpent" value="32281000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -2736,8 +2741,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docker-compose.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="31" column="19" lean-forward="false" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        <state relative-caret-position="152">
+          <caret line="43" column="6" lean-forward="true" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
           <folding>
             <element signature="e#9#14#0" expanded="false" />
             <element signature="e#27#325#0" expanded="false" />
@@ -2767,12 +2772,17 @@
             <element signature="e#599#615#0" expanded="false" />
             <element signature="e#620#646#0" expanded="false" />
             <element signature="e#635#646#0" expanded="false" />
+            <element signature="e#649#814#0" expanded="false" />
             <element signature="e#698#701#0" expanded="false" />
             <element signature="e#722#725#0" expanded="false" />
             <element signature="e#737#765#0" expanded="false" />
             <element signature="e#779#785#0" expanded="false" />
             <element signature="e#790#814#0" expanded="false" />
             <element signature="e#805#814#0" expanded="false" />
+            <element signature="e#1145#1147#0" expanded="false" />
+            <element signature="e#1173#1177#0" expanded="false" />
+            <element signature="e#1207#1211#0" expanded="false" />
+            <element signature="e#1236#1239#0" expanded="false" />
           </folding>
         </state>
       </provider>

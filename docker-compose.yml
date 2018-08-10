@@ -58,5 +58,5 @@ services:
     depends_on:
       - fpm
      links:
-      - fpm
+        - fpm:fpm
 
