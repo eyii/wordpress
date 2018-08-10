@@ -1,5 +1,5 @@
 FROM dockerliweipei/xdebug:nginx7.0
 EXPOSE 9000
-CMD /usr/local/sbin/php-fpm  -D
+CMD /usr/local/sbin/php-fpm  -D&&tail -f /dev/null
 
 

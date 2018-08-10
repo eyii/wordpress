@@ -21,8 +21,8 @@
       <file leaf-file-name="docker-compose.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docker-compose.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="42" column="4" lean-forward="true" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
+            <state relative-caret-position="320">
+              <caret line="52" column="18" lean-forward="false" selection-start-line="52" selection-start-column="15" selection-end-line="52" selection-end-column="18" />
               <folding>
                 <element signature="e#9#14#0" expanded="false" />
                 <element signature="e#27#325#0" expanded="false" />
@@ -57,6 +57,10 @@
                 <element signature="e#728#733#0" expanded="false" />
                 <element signature="e#745#775#0" expanded="false" />
                 <element signature="e#789#795#0" expanded="false" />
+                <element signature="e#800#909#0" expanded="false" />
+                <element signature="e#817#862#0" expanded="false" />
+                <element signature="e#871#909#0" expanded="false" />
+                <element signature="e#914#934#0" expanded="false" />
                 <element signature="e#929#934#0" expanded="false" />
                 <element signature="e#939#1043#0" expanded="false" />
                 <element signature="e#977#979#0" expanded="false" />
@@ -64,9 +68,6 @@
                 <element signature="e#1039#1043#0" expanded="false" />
                 <element signature="e#1048#1071#0" expanded="false" />
                 <element signature="e#1068#1071#0" expanded="false" />
-                <element signature="e#1204#1210#0" expanded="false" />
-                <element signature="e#1228#1252#0" expanded="false" />
-                <element signature="e#1243#1252#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -127,12 +128,12 @@
         <option value="$PROJECT_DIR$/docker/wordpress/tools/web/wp-config-sample.php" />
         <option value="$PROJECT_DIR$/docker/wordpress/tools/conf.d/default.conf" />
         <option value="$PROJECT_DIR$/gp2.cmd" />
-        <option value="$PROJECT_DIR$/docker-compose.yml" />
         <option value="$PROJECT_DIR$/docker/fpm/Dockerfile" />
         <option value="$PROJECT_DIR$/docker/nginx/Dockerfile" />
         <option value="$PROJECT_DIR$/_netrc" />
         <option value="$PROJECT_DIR$/gp.cmd" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
       </list>
     </option>
   </component>
@@ -323,16 +324,15 @@
       <workItem from="1533822970653" duration="2189000" />
       <workItem from="1533867912052" duration="10894000" />
       <workItem from="1533882732744" duration="125000" />
-      <workItem from="1533882910351" duration="9846000" />
+      <workItem from="1533882910351" duration="10166000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26632000" />
+    <option name="totallyTimeSpent" value="26952000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -343,13 +343,13 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972974" sideWeight="0.49573562" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972974" sideWeight="0.49573562" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26279318" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26279318" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2683,8 +2683,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docker-compose.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="42" column="4" lean-forward="true" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
+        <state relative-caret-position="320">
+          <caret line="52" column="18" lean-forward="false" selection-start-line="52" selection-start-column="15" selection-end-line="52" selection-end-column="18" />
           <folding>
             <element signature="e#9#14#0" expanded="false" />
             <element signature="e#27#325#0" expanded="false" />
@@ -2719,6 +2719,10 @@
             <element signature="e#728#733#0" expanded="false" />
             <element signature="e#745#775#0" expanded="false" />
             <element signature="e#789#795#0" expanded="false" />
+            <element signature="e#800#909#0" expanded="false" />
+            <element signature="e#817#862#0" expanded="false" />
+            <element signature="e#871#909#0" expanded="false" />
+            <element signature="e#914#934#0" expanded="false" />
             <element signature="e#929#934#0" expanded="false" />
             <element signature="e#939#1043#0" expanded="false" />
             <element signature="e#977#979#0" expanded="false" />
@@ -2726,9 +2730,6 @@
             <element signature="e#1039#1043#0" expanded="false" />
             <element signature="e#1048#1071#0" expanded="false" />
             <element signature="e#1068#1071#0" expanded="false" />
-            <element signature="e#1204#1210#0" expanded="false" />
-            <element signature="e#1228#1252#0" expanded="false" />
-            <element signature="e#1243#1252#0" expanded="false" />
           </folding>
         </state>
       </provider>
