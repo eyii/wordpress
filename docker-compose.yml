@@ -57,6 +57,9 @@ services:
       - 80:80
     links:
       - fpm
+      - db
+      - redis
+      - memcached
     environment:
       WORDPRESS_DB_HOST: db
       WORDPRESS_DB_USER: root
