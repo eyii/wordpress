@@ -30,16 +30,16 @@ services:
     image: memcached:latest
     ports:
       - 11211:11211
-  php:
+  nginx:
     build:
-      ./docker/wordpress
-    hostname: php
-    container_name: php
-    image: dockerliweipei/wordpress:php
+      ./docker/nginx
+    hostname: nginx
+    container_name: nginx
+    image: dockerliweipei/wordpress:nginx
     restart: always
     volumes:
-      - ./docker/wordpress/tools/conf.d:/etc/nginx/conf.d
-      - ./docker/wordpress/tools/web:/var/www/html
+      - ./docker/nginx/tools/conf.d:/etc/nginx/conf.d
+      - ./docker/nginx/tools/web:/var/www/html
     ports:
       - 80:80
     environment:
