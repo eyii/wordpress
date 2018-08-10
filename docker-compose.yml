@@ -57,5 +57,5 @@ services:
       WORDPRESS_DB_PASSWORD: root
      links:
       - db
-      - redis
+      - fpm
 
