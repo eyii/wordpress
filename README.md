@@ -14,7 +14,7 @@
 7.alias dr='docker rm $(docker ps -a -q)'
 
 8.alias drun='docker run  -d --privileged -p 80:80 -p 8222:22 --name xdebug dockerliweipei/xdebug:latest'
-
+alias dba='ds&&dr&&gr&&dcb'
 9.alias ds='docker stop $(docker ps -a -q)'
 
 10.source /root/.bashrc
