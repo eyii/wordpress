@@ -7,7 +7,7 @@ services:
       container_name: db
       image: dockerliweipei/wordpress:db
       volumes:
-        - ./db:/var/lib/mysql
+        - ./docker/db/mysql:/var/lib/mysql
       environment:
         MYSQL_ROOT_PASSWORD: root
         MYSQL_DATABASE: test
