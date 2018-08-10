@@ -55,6 +55,5 @@ services:
     container_name: php
     image: dockerliweipei/wordpress:fpm
     restart: always
-    volumes:
     ports:
       - 9000:9000
