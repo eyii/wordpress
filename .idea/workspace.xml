@@ -15,55 +15,168 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="docker-compose.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <file leaf-file-name="wp-config-sample.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docker/nginx/tools/web/wp-config-sample.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="49" column="11" lean-forward="false" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
+            <state relative-caret-position="-304">
+              <caret line="22" column="8" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
               <folding>
-                <element signature="e#9#14#0" expanded="false" />
-                <element signature="e#48#59#0" expanded="false" />
-                <element signature="e#74#76#0" expanded="false" />
-                <element signature="e#97#99#0" expanded="false" />
-                <element signature="e#111#138#0" expanded="false" />
-                <element signature="e#143#179#0" expanded="false" />
-                <element signature="e#160#179#0" expanded="false" />
-                <element signature="e#184#275#0" expanded="false" />
-                <element signature="e#224#228#0" expanded="false" />
-                <element signature="e#251#255#0" expanded="false" />
-                <element signature="e#268#275#0" expanded="false" />
-                <element signature="e#280#304#0" expanded="false" />
-                <element signature="e#295#304#0" expanded="false" />
-                <element signature="e#319#325#0" expanded="false" />
-                <element signature="e#704#707#0" expanded="false" />
-                <element signature="e#728#731#0" expanded="false" />
-                <element signature="e#981#983#0" expanded="false" />
-                <element signature="e#1009#1013#0" expanded="false" />
-                <element signature="e#1043#1047#0" expanded="false" />
-                <element signature="e#1100#1112#0" expanded="false" />
-                <element signature="e#1127#1130#0" expanded="false" />
-                <element signature="e#1151#1154#0" expanded="false" />
+                <element signature="e#637#822#0#PHP" expanded="false" />
+                <element signature="e#1306#1411#0#PHP" expanded="false" />
+                <element signature="e#1437#1631#0#PHP" expanded="false" />
+                <element signature="e#1660#1729#0#PHP" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gp2.cmd" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gp2.cmd">
+      <file leaf-file-name="install.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docker/nginx/tools/web/wp-admin/install.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gp.cmd" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gp.cmd">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
-              <folding />
+            <state relative-caret-position="-456">
+              <caret line="26" column="3" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+              <folding>
+                <element signature="e#110#593#0#PHP" expanded="false" />
+                <element signature="n#html#0;n#!!top" expanded="false" />
+                <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="e#1171#1263#0#PHP" expanded="false" />
+                <element signature="n#display_header#0;n#!!top" expanded="false" />
+                <element signature="e#1366#1412#0#PHP" expanded="false" />
+                <element signature="e#1414#1478#0#PHP" expanded="false" />
+                <element signature="e#1541#1546#0#PHP" expanded="false" />
+                <element signature="n#head#0;n#html#1;n#!!top" expanded="false" />
+                <element signature="e#1766#1771#0#PHP" expanded="false" />
+                <element signature="e#1825#1830#0#PHP" expanded="false" />
+                <element signature="e#1938#1943#0#PHP" expanded="false" />
+                <element signature="e#1990#1995#0#PHP" expanded="false" />
+                <element signature="e#2062#2067#0#PHP" expanded="false" />
+                <element signature="e#2132#2287#0#PHP" expanded="false" />
+                <element signature="n#display_setup_form#0;n#!!top" expanded="false" />
+                <element signature="e#2564#2656#0#PHP" expanded="false" />
+                <element signature="e#2954#3083#0#PHP" expanded="false" />
+                <element signature="e#2990#2995#0#PHP" expanded="false" />
+                <element signature="e#3050#3055#0#PHP" expanded="false" />
+                <element signature="n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+                <element signature="n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+                <element signature="n#tr#0;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+                <element signature="e#3251#3256#0#PHP" expanded="false" />
+                <element signature="e#3374#3379#0#PHP" expanded="false" />
+                <element signature="n#tr#1;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+                <element signature="e#3482#3487#0#PHP" expanded="false" />
+                <element signature="n#td#0;n#tr#1;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+                <element signature="e#3540#3963#0#PHP" expanded="false" />
+                <element signature="e#3668#3963#0#PHP" expanded="false" />
+                <element signature="e#3750#3755#0#PHP" expanded="false" />
+                <element signature="e#3822#3827#0#PHP" expanded="false" />
+                <element signature="e#3992#5955#0#PHP" expanded="false" />
+                <element signature="n#tr#2;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+                <element signature="n#th#0;n#tr#2;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+                <element signature="n#label#0;n#th#0;n#tr#2;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+                <element signature="e#4123#4128#0#PHP" expanded="false" />
+                <element signature="n#td#0;n#tr#2;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#td#0;n#tr#2;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+                <element signature="e#4204#4209#0#PHP" expanded="false" />
+                <element signature="e#4466#4471#0#PHP" expanded="false" />
+                <element signature="e#4641#4646#0#PHP" expanded="false" />
+                <element signature="e#4725#4730#0#PHP" expanded="false" />
+                <element signature="n#button#0;n#div#0;n#td#0;n#tr#2;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+                <element signature="e#4847#4852#0#PHP" expanded="false" />
+                <element signature="n#p#0;n#td#0;n#tr#2;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+                <element signature="n#span#0;n#p#0;n#td#0;n#tr#2;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+                <element signature="e#5035#5040#0#PHP" expanded="false" />
+                <element signature="e#5077#5082#0#PHP" expanded="false" />
+                <element signature="e#5222#5227#0#PHP" expanded="false" />
+                <element signature="n#tr#3;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+                <element signature="n#th#0;n#tr#3;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+                <element signature="n#label#0;n#th#0;n#tr#3;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+                <element signature="e#5460#5465#0#PHP" expanded="false" />
+                <element signature="e#5525#5530#0#PHP" expanded="false" />
+                <element signature="n#td#0;n#tr#3;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+                <element signature="n#tr#4;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+                <element signature="e#5733#5738#0#PHP" expanded="false" />
+                <element signature="n#td#0;n#tr#4;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+                <element signature="n#label#0;n#td#0;n#tr#4;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+                <element signature="e#5864#5869#0#PHP" expanded="false" />
+                <element signature="n#tr#5;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+                <element signature="e#6010#6015#0#PHP" expanded="false" />
+                <element signature="n#td#0;n#tr#5;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+                <element signature="e#6132#6137#0#PHP" expanded="false" />
+                <element signature="e#6182#6187#0#PHP" expanded="false" />
+                <element signature="n#tr#6;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+                <element signature="e#6294#6299#0#PHP" expanded="false" />
+                <element signature="n#td#0;n#tr#6;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+                <element signature="n#fieldset#0;n#td#0;n#tr#6;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+                <element signature="e#6477#6482#0#PHP" expanded="false" />
+                <element signature="e#6619#7752#0#PHP" expanded="false" />
+                <element signature="e#6741#6746#0#PHP" expanded="false" />
+                <element signature="e#6812#6817#0#PHP" expanded="false" />
+                <element signature="e#6956#6961#0#PHP" expanded="false" />
+                <element signature="e#7029#7034#0#PHP" expanded="false" />
+                <element signature="e#7134#7139#0#PHP" expanded="false" />
+                <element signature="e#7407#7752#0#PHP" expanded="false" />
+                <element signature="n#label#2;n#fieldset#0;n#td#0;n#tr#6;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+                <element signature="e#7517#7522#0#PHP" expanded="false" />
+                <element signature="e#7563#7568#0#PHP" expanded="false" />
+                <element signature="e#7668#7673#0#PHP" expanded="false" />
+                <element signature="e#7816#7821#0#PHP" expanded="false" />
+                <element signature="e#7971#7976#0#PHP" expanded="false" />
+                <element signature="e#8163#8550#0#PHP" expanded="false" />
+                <element signature="e#8552#8695#0#PHP" expanded="false" />
+                <element signature="e#9046#10423#0#PHP" expanded="false" />
+                <element signature="e#9291#9624#0#PHP" expanded="false" />
+                <element signature="e#9300#9531#0#PHP" expanded="false" />
+                <element signature="e#9628#10019#0#PHP" expanded="false" />
+                <element signature="e#9784#10016#0#PHP" expanded="false" />
+                <element signature="e#10020#10423#0#PHP" expanded="false" />
+                <element signature="e#10182#10420#0#PHP" expanded="false" />
+                <element signature="e#10425#10583#0#PHP" expanded="false" />
+                <element signature="e#10585#10941#0#PHP" expanded="false" />
+                <element signature="e#10743#10912#0#PHP" expanded="false" />
+                <element signature="e#11032#11385#0#PHP" expanded="false" />
+                <element signature="e#11169#11356#0#PHP" expanded="false" />
+                <element signature="e#11387#11465#0#PHP" expanded="false" />
+                <element signature="e#11482#11696#0#PHP" expanded="false" />
+                <element signature="e#11601#11696#0#PHP" expanded="false" />
+                <element signature="e#11738#15824#0#PHP" expanded="false" />
+                <element signature="e#11755#12110#0#PHP" expanded="false" />
+                <element signature="e#11775#12110#1#PHP" expanded="false" />
+                <element signature="e#12185#13037#0#PHP" expanded="false" />
+                <element signature="e#12244#12467#0#PHP" expanded="false" />
+                <element signature="e#12339#12463#0#PHP" expanded="false" />
+                <element signature="e#12537#12542#0#PHP" expanded="false" />
+                <element signature="e#12581#12586#0#PHP" expanded="false" />
+                <element signature="e#12587#12812#0#PHP" expanded="false" />
+                <element signature="e#12826#12831#0#PHP" expanded="false" />
+                <element signature="e#12871#12876#0#PHP" expanded="false" />
+                <element signature="e#13039#15822#0#PHP" expanded="false" />
+                <element signature="e#13049#13241#0#PHP" expanded="false" />
+                <element signature="e#13200#13241#0#PHP" expanded="false" />
+                <element signature="e#14052#14911#0#PHP" expanded="false" />
+                <element signature="e#14192#14358#0#PHP" expanded="false" />
+                <element signature="e#14359#14537#0#PHP" expanded="false" />
+                <element signature="e#14538#14685#0#PHP" expanded="false" />
+                <element signature="e#14686#14911#0#PHP" expanded="false" />
+                <element signature="e#14915#15813#0#PHP" expanded="false" />
+                <element signature="e#15102#15107#0#PHP" expanded="false" />
+                <element signature="e#15138#15143#0#PHP" expanded="false" />
+                <element signature="n#table#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+                <element signature="n#tr#0;n#table#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+                <element signature="e#15268#15273#0#PHP" expanded="false" />
+                <element signature="e#15306#15311#0#PHP" expanded="false" />
+                <element signature="n#tr#1;n#table#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+                <element signature="e#15391#15396#0#PHP" expanded="false" />
+                <element signature="n#td#0;n#tr#1;n#table#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+                <element signature="e#15437#15594#0#PHP" expanded="false" />
+                <element signature="e#15522#15527#0#PHP" expanded="false" />
+                <element signature="e#15604#15609#0#PHP" expanded="false" />
+                <element signature="e#15700#15705#0#PHP" expanded="false" />
+                <element signature="e#15770#15775#0#PHP" expanded="false" />
+                <element signature="e#15826#15974#0#PHP" expanded="false" />
+                <element signature="n#script#1;n#body#0;n#html#1;n#!!top" expanded="false" />
+                <element signature="e#16072#16130#0#HTML" expanded="false" />
+                <marker date="1504553443000" expanded="true" signature="14791:14798" ph="&amp;##8217;" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -113,10 +226,11 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/docker/wordpress/tools/web/wp-config-sample.php" />
         <option value="$PROJECT_DIR$/docker/wordpress/tools/conf.d/default.conf" />
-        <option value="$PROJECT_DIR$/docker/fpm/Dockerfile" />
-        <option value="$PROJECT_DIR$/docker-compose.yml" />
         <option value="$PROJECT_DIR$/gp2.cmd" />
         <option value="$PROJECT_DIR$/gp.cmd" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/docker/fpm/Dockerfile" />
+        <option value="$PROJECT_DIR$/docker/nginx/Dockerfile" />
       </list>
     </option>
   </component>
@@ -167,6 +281,27 @@
               <item name="wordpress" type="462c0819:PsiDirectoryNode" />
               <item name="docker" type="462c0819:PsiDirectoryNode" />
               <item name="fpm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+              <item name="docker" type="462c0819:PsiDirectoryNode" />
+              <item name="nginx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+              <item name="docker" type="462c0819:PsiDirectoryNode" />
+              <item name="nginx" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+              <item name="docker" type="462c0819:PsiDirectoryNode" />
+              <item name="nginx" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -307,15 +442,16 @@
       <workItem from="1533822970653" duration="2189000" />
       <workItem from="1533867912052" duration="10894000" />
       <workItem from="1533882732744" duration="125000" />
-      <workItem from="1533882910351" duration="4305000" />
+      <workItem from="1533882910351" duration="5526000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21091000" />
+    <option name="totallyTimeSpent" value="22312000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -326,13 +462,13 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972974" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972974" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26279318" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26279318" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -357,7 +493,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/docker/apache/server/tools/index.php" />
     <entry file="file://$PROJECT_DIR$/docker/server/tools/conf.d/default.conf" />
     <entry file="file://$PROJECT_DIR$/docker/apache/server/Dockerfile" />
     <entry file="file://$PROJECT_DIR$/git" />
@@ -397,7 +532,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.json" />
-    <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/docker_wordpress/wp-admin/install.php">
+    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/docker_wordpress/wp-admin/install.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -554,35 +689,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/docker_wordpress/wp-content/plugins/akismet/views/config.php">
+    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/docker_wordpress/wp-content/plugins/akismet/views/config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="34" lean-forward="true" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/docker_wordpress/wp-content/plugins/index.php">
+    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/docker_wordpress/wp-content/plugins/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/docker_wordpress/wp-content/plugins/akismet/class.akismet-cli.php">
+    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/docker_wordpress/wp-content/plugins/akismet/class.akismet-cli.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/docker_wordpress/wp-content/plugins/hello.php">
+    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/docker_wordpress/wp-content/plugins/hello.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/docker_wordpress/wp-login.php">
+    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/docker_wordpress/wp-login.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -844,21 +979,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/docker_wordpress/wp-mail.php">
+    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/docker_wordpress/wp-mail.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/docker_wordpress/wp-load.php">
+    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/docker_wordpress/wp-load.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/docker_wordpress/index.php">
+    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/docker_wordpress/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
@@ -893,7 +1028,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/wordpress/READNE.md">
+    <entry file="file://$PROJECT_DIR$/docker/nginx/READNE.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="304">
@@ -911,28 +1046,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/docker_wordpress/wp-admin/options-general.php">
+    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/docker_wordpress/wp-admin/options-general.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="164" column="49" lean-forward="false" selection-start-line="164" selection-start-column="49" selection-end-line="164" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/docker_wordpress/wp-admin/options.php">
+    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/docker_wordpress/wp-admin/options.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/docker_wordpress/wp-signup.php">
+    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/docker_wordpress/wp-signup.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="162" column="50" lean-forward="false" selection-start-line="162" selection-start-column="50" selection-end-line="162" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/docker_wordpress/wp-config-sample.php">
+    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/docker_wordpress/wp-config-sample.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="59" column="3" lean-forward="true" selection-start-line="59" selection-start-column="3" selection-end-line="59" selection-end-column="3" />
@@ -943,21 +1078,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/docker_wordpress/wp-admin/network/settings.php">
+    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/docker_wordpress/wp-admin/network/settings.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="378" column="51" lean-forward="false" selection-start-line="378" selection-start-column="51" selection-end-line="378" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/docker_wordpress/wp-admin/network/site-new.php">
+    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/docker_wordpress/wp-admin/network/site-new.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="234" column="62" lean-forward="false" selection-start-line="234" selection-start-column="62" selection-end-line="234" selection-end-column="62" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/docker_wordpress/wp-includes/formatting.php">
+    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/docker_wordpress/wp-includes/formatting.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="4205" column="47" lean-forward="false" selection-start-line="4205" selection-start-column="47" selection-end-line="4205" selection-end-column="47" />
@@ -1514,7 +1649,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/docker_wordpress/wp-includes/l10n.php">
+    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/docker_wordpress/wp-includes/l10n.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="56" column="43" lean-forward="false" selection-start-line="56" selection-start-column="43" selection-end-line="56" selection-end-column="43" />
@@ -1691,7 +1826,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/docker_wordpress/wp-includes/load.php">
+    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/docker_wordpress/wp-includes/load.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="883" column="23" lean-forward="false" selection-start-line="883" selection-start-column="23" selection-end-line="883" selection-end-column="23" />
@@ -1865,7 +2000,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/docker_wordpress/wp-includes/option.php">
+    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/docker_wordpress/wp-includes/option.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="206">
           <caret line="1819" column="38" lean-forward="false" selection-start-line="1819" selection-start-column="38" selection-end-line="1819" selection-end-column="38" />
@@ -2203,21 +2338,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/docker_wordpress/wp-includes/update.php">
+    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/docker_wordpress/wp-includes/update.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="757" column="27" lean-forward="false" selection-start-line="757" selection-start-column="27" selection-end-line="757" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/docker_wordpress/wp-settings.php">
+    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/docker_wordpress/wp-settings.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3621">
           <caret line="39" column="45" lean-forward="false" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
+          <folding>
+            <element signature="e#223#340#0#PHP" expanded="false" />
+            <element signature="e#569#765#0#PHP" expanded="false" />
+            <element signature="e#933#1144#0#PHP" expanded="false" />
+            <element signature="e#2066#2477#0#PHP" expanded="false" />
+            <element signature="e#2478#2932#0#PHP" expanded="false" />
+            <element signature="e#2842#2930#0#PHP" expanded="false" />
+            <element signature="e#3863#4175#0#PHP" expanded="false" />
+            <element signature="e#4105#4175#0#PHP" expanded="false" />
+            <element signature="e#10499#10684#0#PHP" expanded="false" />
+            <element signature="e#10955#11033#0#PHP" expanded="false" />
+            <element signature="e#11091#11297#0#PHP" expanded="false" />
+            <element signature="e#11116#11268#0#PHP" expanded="false" />
+            <element signature="e#11299#11395#0#PHP" expanded="false" />
+            <element signature="e#12032#12159#0#PHP" expanded="false" />
+            <element signature="e#12529#12681#0#PHP" expanded="false" />
+            <element signature="e#12896#12968#0#PHP" expanded="false" />
+            <element signature="e#13011#13094#0#PHP" expanded="false" />
+            <element signature="e#13139#13278#0#PHP" expanded="false" />
+            <element signature="e#13329#13449#0#PHP" expanded="false" />
+            <element signature="e#13494#13555#0#PHP" expanded="false" />
+            <element signature="e#13584#13690#0#PHP" expanded="false" />
+            <element signature="e#13749#13826#0#PHP" expanded="false" />
+            <element signature="e#13867#13930#0#PHP" expanded="false" />
+            <element signature="e#14298#14432#0#PHP" expanded="false" />
+            <element signature="e#14475#14648#0#PHP" expanded="false" />
+            <element signature="e#14840#15143#0#PHP" expanded="false" />
+            <element signature="e#15145#15207#0#PHP" expanded="false" />
+            <element signature="e#15292#15760#0#PHP" expanded="false" />
+            <element signature="e#15804#15923#0#PHP" expanded="false" />
+            <element signature="e#15829#15906#0#PHP" expanded="false" />
+            <element signature="e#15925#16219#0#PHP" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/docker_wordpress/wp-config.php">
+    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/docker_wordpress/wp-config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-204">
           <caret line="28" column="29" lean-forward="false" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
@@ -2240,7 +2408,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/web/wp-settings.php">
+    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/web/wp-settings.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-5684">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -2280,20 +2448,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/web/wp-config-sample.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
-          <caret line="95" column="30" lean-forward="false" selection-start-line="95" selection-start-column="30" selection-end-line="95" selection-end-column="30" />
-          <folding>
-            <element signature="e#637#822#0#PHP" expanded="false" />
-            <element signature="e#1306#1411#0#PHP" expanded="false" />
-            <element signature="e#1437#1631#0#PHP" expanded="false" />
-            <element signature="e#1660#1729#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/web/wp-admin/admin.php">
+    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/web/wp-admin/admin.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -2346,7 +2501,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/web/wp-cron.php">
+    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/web/wp-cron.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -2371,7 +2526,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/web/wp-links-opml.php">
+    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/web/wp-links-opml.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -2395,7 +2550,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/web/wp-login.php">
+    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/web/wp-login.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="300" column="1" lean-forward="true" selection-start-line="300" selection-start-column="1" selection-end-line="300" selection-end-column="1" />
@@ -2643,7 +2798,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/nginx.conf">
+    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/nginx.conf">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
@@ -2651,58 +2806,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/wordpress/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/conf.d/default.conf">
+    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/conf.d/default.conf">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docker/fpm/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="49" column="11" lean-forward="false" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
-          <folding>
-            <element signature="e#9#14#0" expanded="false" />
-            <element signature="e#48#59#0" expanded="false" />
-            <element signature="e#74#76#0" expanded="false" />
-            <element signature="e#97#99#0" expanded="false" />
-            <element signature="e#111#138#0" expanded="false" />
-            <element signature="e#143#179#0" expanded="false" />
-            <element signature="e#160#179#0" expanded="false" />
-            <element signature="e#184#275#0" expanded="false" />
-            <element signature="e#224#228#0" expanded="false" />
-            <element signature="e#251#255#0" expanded="false" />
-            <element signature="e#268#275#0" expanded="false" />
-            <element signature="e#280#304#0" expanded="false" />
-            <element signature="e#295#304#0" expanded="false" />
-            <element signature="e#319#325#0" expanded="false" />
-            <element signature="e#704#707#0" expanded="false" />
-            <element signature="e#728#731#0" expanded="false" />
-            <element signature="e#981#983#0" expanded="false" />
-            <element signature="e#1009#1013#0" expanded="false" />
-            <element signature="e#1043#1047#0" expanded="false" />
-            <element signature="e#1100#1112#0" expanded="false" />
-            <element signature="e#1127#1130#0" expanded="false" />
-            <element signature="e#1151#1154#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2719,6 +2827,222 @@
         <state relative-caret-position="0">
           <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/fpm/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/nginx/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="56" column="13" lean-forward="true" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+          <folding>
+            <element signature="e#9#14#0" expanded="false" />
+            <element signature="e#27#325#0" expanded="false" />
+            <element signature="e#48#59#0" expanded="false" />
+            <element signature="e#74#76#0" expanded="false" />
+            <element signature="e#97#99#0" expanded="false" />
+            <element signature="e#111#138#0" expanded="false" />
+            <element signature="e#143#179#0" expanded="false" />
+            <element signature="e#160#179#0" expanded="false" />
+            <element signature="e#184#275#0" expanded="false" />
+            <element signature="e#224#228#0" expanded="false" />
+            <element signature="e#251#255#0" expanded="false" />
+            <element signature="e#268#275#0" expanded="false" />
+            <element signature="e#280#304#0" expanded="false" />
+            <element signature="e#295#304#0" expanded="false" />
+            <element signature="e#319#325#0" expanded="false" />
+            <element signature="e#328#509#0" expanded="false" />
+            <element signature="e#351#365#0" expanded="false" />
+            <element signature="e#386#391#0" expanded="false" />
+            <element signature="e#403#415#0" expanded="false" />
+            <element signature="e#429#480#0" expanded="false" />
+            <element signature="e#485#509#0" expanded="false" />
+            <element signature="e#500#509#0" expanded="false" />
+            <element signature="e#539#557#0" expanded="false" />
+            <element signature="e#578#587#0" expanded="false" />
+            <element signature="e#599#615#0" expanded="false" />
+            <element signature="e#620#646#0" expanded="false" />
+            <element signature="e#635#646#0" expanded="false" />
+            <element signature="e#728#733#0" expanded="false" />
+            <element signature="e#1147#1150#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/web/wp-admin/install.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-456">
+          <caret line="26" column="3" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+          <folding>
+            <element signature="e#110#593#0#PHP" expanded="false" />
+            <element signature="n#html#0;n#!!top" expanded="false" />
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#1171#1263#0#PHP" expanded="false" />
+            <element signature="n#display_header#0;n#!!top" expanded="false" />
+            <element signature="e#1366#1412#0#PHP" expanded="false" />
+            <element signature="e#1414#1478#0#PHP" expanded="false" />
+            <element signature="e#1541#1546#0#PHP" expanded="false" />
+            <element signature="n#head#0;n#html#1;n#!!top" expanded="false" />
+            <element signature="e#1766#1771#0#PHP" expanded="false" />
+            <element signature="e#1825#1830#0#PHP" expanded="false" />
+            <element signature="e#1938#1943#0#PHP" expanded="false" />
+            <element signature="e#1990#1995#0#PHP" expanded="false" />
+            <element signature="e#2062#2067#0#PHP" expanded="false" />
+            <element signature="e#2132#2287#0#PHP" expanded="false" />
+            <element signature="n#display_setup_form#0;n#!!top" expanded="false" />
+            <element signature="e#2564#2656#0#PHP" expanded="false" />
+            <element signature="e#2954#3083#0#PHP" expanded="false" />
+            <element signature="e#2990#2995#0#PHP" expanded="false" />
+            <element signature="e#3050#3055#0#PHP" expanded="false" />
+            <element signature="n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+            <element signature="n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+            <element signature="n#tr#0;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+            <element signature="e#3251#3256#0#PHP" expanded="false" />
+            <element signature="e#3374#3379#0#PHP" expanded="false" />
+            <element signature="n#tr#1;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+            <element signature="e#3482#3487#0#PHP" expanded="false" />
+            <element signature="n#td#0;n#tr#1;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+            <element signature="e#3540#3963#0#PHP" expanded="false" />
+            <element signature="e#3668#3963#0#PHP" expanded="false" />
+            <element signature="e#3750#3755#0#PHP" expanded="false" />
+            <element signature="e#3822#3827#0#PHP" expanded="false" />
+            <element signature="e#3992#5955#0#PHP" expanded="false" />
+            <element signature="n#tr#2;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+            <element signature="n#th#0;n#tr#2;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+            <element signature="n#label#0;n#th#0;n#tr#2;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+            <element signature="e#4123#4128#0#PHP" expanded="false" />
+            <element signature="n#td#0;n#tr#2;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#td#0;n#tr#2;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+            <element signature="e#4204#4209#0#PHP" expanded="false" />
+            <element signature="e#4466#4471#0#PHP" expanded="false" />
+            <element signature="e#4641#4646#0#PHP" expanded="false" />
+            <element signature="e#4725#4730#0#PHP" expanded="false" />
+            <element signature="n#button#0;n#div#0;n#td#0;n#tr#2;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+            <element signature="e#4847#4852#0#PHP" expanded="false" />
+            <element signature="n#p#0;n#td#0;n#tr#2;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+            <element signature="n#span#0;n#p#0;n#td#0;n#tr#2;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+            <element signature="e#5035#5040#0#PHP" expanded="false" />
+            <element signature="e#5077#5082#0#PHP" expanded="false" />
+            <element signature="e#5222#5227#0#PHP" expanded="false" />
+            <element signature="n#tr#3;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+            <element signature="n#th#0;n#tr#3;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+            <element signature="n#label#0;n#th#0;n#tr#3;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+            <element signature="e#5460#5465#0#PHP" expanded="false" />
+            <element signature="e#5525#5530#0#PHP" expanded="false" />
+            <element signature="n#td#0;n#tr#3;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+            <element signature="n#tr#4;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+            <element signature="e#5733#5738#0#PHP" expanded="false" />
+            <element signature="n#td#0;n#tr#4;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+            <element signature="n#label#0;n#td#0;n#tr#4;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+            <element signature="e#5864#5869#0#PHP" expanded="false" />
+            <element signature="n#tr#5;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+            <element signature="e#6010#6015#0#PHP" expanded="false" />
+            <element signature="n#td#0;n#tr#5;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+            <element signature="e#6132#6137#0#PHP" expanded="false" />
+            <element signature="e#6182#6187#0#PHP" expanded="false" />
+            <element signature="n#tr#6;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+            <element signature="e#6294#6299#0#PHP" expanded="false" />
+            <element signature="n#td#0;n#tr#6;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+            <element signature="n#fieldset#0;n#td#0;n#tr#6;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+            <element signature="e#6477#6482#0#PHP" expanded="false" />
+            <element signature="e#6619#7752#0#PHP" expanded="false" />
+            <element signature="e#6741#6746#0#PHP" expanded="false" />
+            <element signature="e#6812#6817#0#PHP" expanded="false" />
+            <element signature="e#6956#6961#0#PHP" expanded="false" />
+            <element signature="e#7029#7034#0#PHP" expanded="false" />
+            <element signature="e#7134#7139#0#PHP" expanded="false" />
+            <element signature="e#7407#7752#0#PHP" expanded="false" />
+            <element signature="n#label#2;n#fieldset#0;n#td#0;n#tr#6;n#table#0;n#form#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+            <element signature="e#7517#7522#0#PHP" expanded="false" />
+            <element signature="e#7563#7568#0#PHP" expanded="false" />
+            <element signature="e#7668#7673#0#PHP" expanded="false" />
+            <element signature="e#7816#7821#0#PHP" expanded="false" />
+            <element signature="e#7971#7976#0#PHP" expanded="false" />
+            <element signature="e#8163#8550#0#PHP" expanded="false" />
+            <element signature="e#8552#8695#0#PHP" expanded="false" />
+            <element signature="e#9046#10423#0#PHP" expanded="false" />
+            <element signature="e#9291#9624#0#PHP" expanded="false" />
+            <element signature="e#9300#9531#0#PHP" expanded="false" />
+            <element signature="e#9628#10019#0#PHP" expanded="false" />
+            <element signature="e#9784#10016#0#PHP" expanded="false" />
+            <element signature="e#10020#10423#0#PHP" expanded="false" />
+            <element signature="e#10182#10420#0#PHP" expanded="false" />
+            <element signature="e#10425#10583#0#PHP" expanded="false" />
+            <element signature="e#10585#10941#0#PHP" expanded="false" />
+            <element signature="e#10743#10912#0#PHP" expanded="false" />
+            <element signature="e#11032#11385#0#PHP" expanded="false" />
+            <element signature="e#11169#11356#0#PHP" expanded="false" />
+            <element signature="e#11387#11465#0#PHP" expanded="false" />
+            <element signature="e#11482#11696#0#PHP" expanded="false" />
+            <element signature="e#11601#11696#0#PHP" expanded="false" />
+            <element signature="e#11738#15824#0#PHP" expanded="false" />
+            <element signature="e#11755#12110#0#PHP" expanded="false" />
+            <element signature="e#11775#12110#1#PHP" expanded="false" />
+            <element signature="e#12185#13037#0#PHP" expanded="false" />
+            <element signature="e#12244#12467#0#PHP" expanded="false" />
+            <element signature="e#12339#12463#0#PHP" expanded="false" />
+            <element signature="e#12537#12542#0#PHP" expanded="false" />
+            <element signature="e#12581#12586#0#PHP" expanded="false" />
+            <element signature="e#12587#12812#0#PHP" expanded="false" />
+            <element signature="e#12826#12831#0#PHP" expanded="false" />
+            <element signature="e#12871#12876#0#PHP" expanded="false" />
+            <element signature="e#13039#15822#0#PHP" expanded="false" />
+            <element signature="e#13049#13241#0#PHP" expanded="false" />
+            <element signature="e#13200#13241#0#PHP" expanded="false" />
+            <element signature="e#14052#14911#0#PHP" expanded="false" />
+            <element signature="e#14192#14358#0#PHP" expanded="false" />
+            <element signature="e#14359#14537#0#PHP" expanded="false" />
+            <element signature="e#14538#14685#0#PHP" expanded="false" />
+            <element signature="e#14686#14911#0#PHP" expanded="false" />
+            <element signature="e#14915#15813#0#PHP" expanded="false" />
+            <element signature="e#15102#15107#0#PHP" expanded="false" />
+            <element signature="e#15138#15143#0#PHP" expanded="false" />
+            <element signature="n#table#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+            <element signature="n#tr#0;n#table#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+            <element signature="e#15268#15273#0#PHP" expanded="false" />
+            <element signature="e#15306#15311#0#PHP" expanded="false" />
+            <element signature="n#tr#1;n#table#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+            <element signature="e#15391#15396#0#PHP" expanded="false" />
+            <element signature="n#td#0;n#tr#1;n#table#0;n#body#0;n#html#1;n#!!top" expanded="false" />
+            <element signature="e#15437#15594#0#PHP" expanded="false" />
+            <element signature="e#15522#15527#0#PHP" expanded="false" />
+            <element signature="e#15604#15609#0#PHP" expanded="false" />
+            <element signature="e#15700#15705#0#PHP" expanded="false" />
+            <element signature="e#15770#15775#0#PHP" expanded="false" />
+            <element signature="e#15826#15974#0#PHP" expanded="false" />
+            <element signature="n#script#1;n#body#0;n#html#1;n#!!top" expanded="false" />
+            <element signature="e#16072#16130#0#HTML" expanded="false" />
+            <marker date="1504553443000" expanded="true" signature="14791:14798" ph="&amp;##8217;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/web/wp-config-sample.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-304">
+          <caret line="22" column="8" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+          <folding>
+            <element signature="e#637#822#0#PHP" expanded="false" />
+            <element signature="e#1306#1411#0#PHP" expanded="false" />
+            <element signature="e#1437#1631#0#PHP" expanded="false" />
+            <element signature="e#1660#1729#0#PHP" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
