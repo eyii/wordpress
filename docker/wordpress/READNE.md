@@ -42,3 +42,5 @@ RUN chmod -R 755 ./data/ &&\
      chmod -R 555 ./templets/ &&\
      chmod 555 ./index.php  &&\
      chmod 555 ./tags.php &&\
+     
+     docker run -d -p 80:80 dockerliweipei/xdebug:nginx7.1

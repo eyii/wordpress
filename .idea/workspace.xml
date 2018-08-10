@@ -18,8 +18,8 @@
       <file leaf-file-name="docker-compose.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docker-compose.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="42" column="45" lean-forward="false" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="66" />
+            <state relative-caret-position="399">
+              <caret line="41" column="50" lean-forward="false" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
               <folding>
                 <element signature="e#9#14#0" expanded="false" />
                 <element signature="e#27#325#0" expanded="false" />
@@ -41,261 +41,39 @@
                 <element signature="e#500#509#0" expanded="false" />
                 <element signature="e#704#707#0" expanded="false" />
                 <element signature="e#728#731#0" expanded="false" />
-                <element signature="e#1048#1050#0" expanded="false" />
-                <element signature="e#1076#1080#0" expanded="false" />
-                <element signature="e#1110#1114#0" expanded="false" />
+                <element signature="e#981#983#0" expanded="false" />
+                <element signature="e#1009#1013#0" expanded="false" />
+                <element signature="e#1043#1047#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nginx.conf" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/nginx.conf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-              <folding />
+      <file leaf-file-name="READNE.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docker/wordpress/READNE.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="304">
+                <caret line="45" column="5" lean-forward="false" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="58" />
+                <folding>
+                  <element signature="e#0#56#0" expanded="false" />
+                  <element signature="e#68#582#0" expanded="false" />
+                  <element signature="e#584#634#0" expanded="false" />
+                  <element signature="e#636#685#0" expanded="false" />
+                  <element signature="e#688#742#0" expanded="false" />
+                  <element signature="e#746#1127#0" expanded="false" />
+                </folding>
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docker/wordpress/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="wp-load.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/web/wp-load.php">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#565#647#0#PHP" expanded="false" />
-                <element signature="e#804#1211#0#PHP" expanded="false" />
-                <element signature="e#1212#3305#0#PHP" expanded="false" />
-                <element signature="e#1352#1635#0#PHP" expanded="false" />
-                <element signature="e#1636#3305#0#PHP" expanded="false" />
-                <element signature="e#1947#2183#0#PHP" expanded="false" />
-                <element signature="e#2185#2298#0#PHP" expanded="false" />
-                <element signature="e#2508#2675#0#PHP" expanded="false" />
-                <element signature="e#2703#2864#0#PHP" expanded="false" />
-                <element signature="e#2892#3126#0#PHP" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="wp-signup.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/web/wp-signup.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="915" column="5" lean-forward="false" selection-start-line="915" selection-start-column="5" selection-end-line="915" selection-end-column="5" />
-              <folding>
-                <element signature="e#216#409#0#PHP" expanded="false" />
-                <element signature="e#411#478#0#PHP" expanded="false" />
-                <element signature="n#do_signup_header#0;n#!!top" expanded="false" />
-                <element signature="e#510#601#0#PHP" expanded="false" />
-                <element signature="e#681#754#0#PHP" expanded="false" />
-                <element signature="e#756#843#0#PHP" expanded="false" />
-                <element signature="e#895#969#0#PHP" expanded="false" />
-                <element signature="e#1008#1093#0#PHP" expanded="false" />
-                <element signature="n#wpmu_signup_stylesheet#0;n#!!top" expanded="false" />
-                <element signature="e#1135#1977#0#HTML" expanded="false" />
-                <element signature="e#2067#2132#0#PHP" expanded="false" />
-                <element signature="e#2171#29934#0#HTML" expanded="false" />
-                <element signature="e#2216#29927#0#HTML" expanded="false" />
-                <element signature="e#2268#2586#0#PHP" expanded="false" />
-                <element signature="n#show_blog_form#0;n#!!top" expanded="false" />
-                <element signature="e#2664#2728#0#PHP" expanded="false" />
-                <element signature="e#2951#3065#0#PHP" expanded="false" />
-                <element signature="e#3031#3036#0#PHP" expanded="false" />
-                <element signature="e#3552#4040#0#PHP" expanded="false" />
-                <element signature="e#3585#3787#0#PHP" expanded="false" />
-                <element signature="e#3704#3787#0#PHP" expanded="false" />
-                <element signature="e#4086#4091#0#PHP" expanded="false" />
-                <element signature="e#4128#4244#0#PHP" expanded="false" />
-                <element signature="e#4210#4215#0#PHP" expanded="false" />
-                <element signature="e#4425#5109#0#PHP" expanded="false" />
-                <element signature="e#4463#5095#0#HTML" expanded="false" />
-                <element signature="e#4497#4502#0#PHP" expanded="false" />
-                <element signature="e#4541#4546#0#PHP" expanded="false" />
-                <element signature="e#4614#4683#0#PHP" expanded="false" />
-                <element signature="e#4741#4802#0#PHP" expanded="false" />
-                <element signature="e#4807#5081#0#PHP" expanded="false" />
-                <element signature="e#4830#5079#1#PHP" expanded="false" />
-                <element signature="e#5129#6045#0#HTML" expanded="false" />
-                <element signature="e#5156#6037#0#HTML" expanded="false" />
-                <element signature="e#5222#5227#0#PHP" expanded="false" />
-                <element signature="e#5266#5271#0#PHP" expanded="false" />
-                <element signature="e#5375#5693#0#HTML" expanded="false" />
-                <element signature="e#5506#5511#0#PHP" expanded="false" />
-                <element signature="e#5604#5609#0#PHP" expanded="false" />
-                <element signature="e#5642#5647#0#PHP" expanded="false" />
-                <element signature="e#5706#6024#0#HTML" expanded="false" />
-                <element signature="e#5839#5844#0#PHP" expanded="false" />
-                <element signature="e#5936#5941#0#PHP" expanded="false" />
-                <element signature="e#5974#5979#0#PHP" expanded="false" />
-                <element signature="e#6055#6228#0#PHP" expanded="false" />
-                <element signature="e#6274#6404#0#PHP" expanded="false" />
-                <element signature="n#validate_blog_form#0;n#!!top" expanded="false" />
-                <element signature="e#6599#6902#0#PHP" expanded="false" />
-                <element signature="n#show_user_form#0;n#!!top" expanded="false" />
-                <element signature="e#6979#7043#0#PHP" expanded="false" />
-                <element signature="e#7124#7228#0#PHP" expanded="false" />
-                <element signature="e#7489#7494#0#PHP" expanded="false" />
-                <element signature="e#7541#7657#0#PHP" expanded="false" />
-                <element signature="e#7623#7628#0#PHP" expanded="false" />
-                <element signature="e#7723#7728#0#PHP" expanded="false" />
-                <element signature="e#7785#7790#0#PHP" expanded="false" />
-                <element signature="e#7910#8016#0#PHP" expanded="false" />
-                <element signature="e#8018#8221#0#PHP" expanded="false" />
-                <element signature="e#8271#8407#0#PHP" expanded="false" />
-                <element signature="n#validate_user_form#0;n#!!top" expanded="false" />
-                <element signature="e#8521#8832#0#PHP" expanded="false" />
-                <element signature="n#signup_another_blog#0;n#!!top" expanded="false" />
-                <element signature="e#8956#9018#0#PHP" expanded="false" />
-                <element signature="e#9040#9135#0#PHP" expanded="false" />
-                <element signature="e#9139#9531#0#PHP" expanded="false" />
-                <element signature="e#9863#9999#0#PHP" expanded="false" />
-                <element signature="e#10008#10013#0#PHP" expanded="false" />
-                <element signature="e#10014#10287#1#PHP" expanded="false" />
-                <element signature="e#10022#10256#0#PHP" expanded="false" />
-                <element signature="e#10352#10652#0#PHP" expanded="false" />
-                <element signature="e#10386#10391#0#PHP" expanded="false" />
-                <element signature="e#10445#10643#0#HTML" expanded="false" />
-                <element signature="e#10454#10459#0#PHP" expanded="false" />
-                <element signature="e#10460#10631#0#PHP" expanded="false" />
-                <element signature="e#10661#10666#0#PHP" expanded="false" />
-                <element signature="e#10778#11473#0#HTML" expanded="false" />
-                <element signature="e#10903#10908#0#PHP" expanded="false" />
-                <element signature="e#10911#11215#0#PHP" expanded="false" />
-                <element signature="e#11285#11290#0#PHP" expanded="false" />
-                <element signature="e#11420#11425#0#PHP" expanded="false" />
-                <element signature="e#11484#11705#0#PHP" expanded="false" />
-                <element signature="n#validate_another_blog_signup#0;n#!!top" expanded="false" />
-                <element signature="e#11846#11888#0#PHP" expanded="false" />
-                <element signature="e#12128#12237#0#PHP" expanded="false" />
-                <element signature="e#12303#12353#0#PHP" expanded="false" />
-                <element signature="e#12407#12699#0#PHP" expanded="false" />
-                <element signature="e#12497#12695#0#PHP" expanded="false" />
-                <element signature="e#12621#12691#0#PHP" expanded="false" />
-                <element signature="e#12702#12987#0#PHP" expanded="false" />
-                <element signature="e#13073#13412#0#PHP" expanded="false" />
-                <element signature="e#13590#13641#0#PHP" expanded="false" />
-                <element signature="e#13792#14300#0#PHP" expanded="false" />
-                <element signature="n#confirm_another_blog_signup#0;n#!!top" expanded="false" />
-                <element signature="e#14434#14688#0#PHP" expanded="false" />
-                <element signature="e#14574#14688#0#PHP" expanded="false" />
-                <element signature="e#14699#14775#0#PHP" expanded="false" />
-                <element signature="e#14783#14886#0#HTML" expanded="false" />
-                <element signature="e#14787#14792#0#PHP" expanded="false" />
-                <element signature="e#14888#15255#0#HTML" expanded="false" />
-                <element signature="e#14894#14899#0#PHP" expanded="false" />
-                <element signature="e#14900#15245#0#PHP" expanded="false" />
-                <element signature="e#15093#15200#0#PHP" expanded="false" />
-                <element signature="e#15264#15354#0#PHP" expanded="false" />
-                <element signature="e#15391#15680#0#PHP" expanded="false" />
-                <element signature="n#signup_user#0;n#!!top" expanded="false" />
-                <element signature="e#15959#16056#0#PHP" expanded="false" />
-                <element signature="e#16060#16475#0#PHP" expanded="false" />
-                <element signature="e#16698#16843#0#HTML" expanded="false" />
-                <element signature="e#16702#16707#0#PHP" expanded="false" />
-                <element signature="e#16845#18002#0#HTML" expanded="false" />
-                <element signature="e#16998#17003#0#PHP" expanded="false" />
-                <element signature="e#17119#17124#0#PHP" expanded="false" />
-                <element signature="e#17181#17879#0#HTML" expanded="false" />
-                <element signature="e#17193#17869#0#PHP" expanded="false" />
-                <element signature="e#17314#17438#0#PHP" expanded="false" />
-                <element signature="e#17439#17869#0#PHP" expanded="false" />
-                <element signature="e#17519#17524#0#PHP" expanded="false" />
-                <element signature="e#17607#17612#0#PHP" expanded="false" />
-                <element signature="e#17724#17729#0#PHP" expanded="false" />
-                <element signature="e#17812#17817#0#PHP" expanded="false" />
-                <element signature="e#17958#17963#0#PHP" expanded="false" />
-                <element signature="e#18013#18149#0#PHP" expanded="false" />
-                <element signature="n#validate_user_signup#0;n#!!top" expanded="false" />
-                <element signature="e#18323#18425#0#PHP" expanded="false" />
-                <element signature="e#18428#18526#0#PHP" expanded="false" />
-                <element signature="e#18735#18896#0#PHP" expanded="false" />
-                <element signature="n#confirm_user_signup#0;n#!!top" expanded="false" />
-                <element signature="e#18958#19061#0#HTML" expanded="false" />
-                <element signature="e#18962#18967#0#PHP" expanded="false" />
-                <element signature="e#19066#19071#0#PHP" expanded="false" />
-                <element signature="e#19178#19339#0#HTML" expanded="false" />
-                <element signature="e#19181#19186#0#PHP" expanded="false" />
-                <element signature="e#19344#19349#0#PHP" expanded="false" />
-                <element signature="e#19546#19942#0#PHP" expanded="false" />
-                <element signature="n#signup_blog#0;n#!!top" expanded="false" />
-                <element signature="e#20133#20289#0#PHP" expanded="false" />
-                <element signature="e#20293#20840#0#PHP" expanded="false" />
-                <element signature="e#21206#21811#0#HTML" expanded="false" />
-                <element signature="e#21380#21385#0#PHP" expanded="false" />
-                <element signature="e#21467#21472#0#PHP" expanded="false" />
-                <element signature="e#21509#21514#0#PHP" expanded="false" />
-                <element signature="e#21630#21635#0#PHP" expanded="false" />
-                <element signature="e#21765#21770#0#PHP" expanded="false" />
-                <element signature="e#21822#21954#0#PHP" expanded="false" />
-                <element signature="n#validate_blog_signup#0;n#!!top" expanded="false" />
-                <element signature="e#22230#22344#0#PHP" expanded="false" />
-                <element signature="e#22588#22714#0#PHP" expanded="false" />
-                <element signature="e#22869#23154#0#PHP" expanded="false" />
-                <element signature="e#22959#23150#0#PHP" expanded="false" />
-                <element signature="e#23083#23146#0#PHP" expanded="false" />
-                <element signature="e#23447#23854#0#PHP" expanded="false" />
-                <element signature="n#confirm_blog_signup#0;n#!!top" expanded="false" />
-                <element signature="e#23974#24154#0#HTML" expanded="false" />
-                <element signature="e#23978#23983#0#PHP" expanded="false" />
-                <element signature="e#24160#24165#0#PHP" expanded="false" />
-                <element signature="e#24264#24425#0#HTML" expanded="false" />
-                <element signature="e#24267#24272#0#PHP" expanded="false" />
-                <element signature="e#24430#24435#0#PHP" expanded="false" />
-                <element signature="e#24539#24544#0#PHP" expanded="false" />
-                <element signature="e#24593#24735#0#HTML" expanded="false" />
-                <element signature="e#24599#24604#0#PHP" expanded="false" />
-                <element signature="e#24705#24735#0#HTML" expanded="false" />
-                <element signature="e#24746#24751#0#PHP" expanded="false" />
-                <element signature="e#24893#24898#0#PHP" expanded="false" />
-                <element signature="e#25016#25231#0#HTML" expanded="false" />
-                <element signature="e#25020#25025#0#PHP" expanded="false" />
-                <element signature="e#25340#25522#0#PHP" expanded="false" />
-                <element signature="n#signup_get_available_languages#0;n#!!top" expanded="false" />
-                <element signature="e#25568#25955#0#PHP" expanded="false" />
-                <element signature="e#26058#26291#0#PHP" expanded="false" />
-                <element signature="e#26436#26656#0#PHP" expanded="false" />
-                <element signature="e#26730#27466#0#PHP" expanded="false" />
-                <element signature="e#26864#27246#0#PHP" expanded="false" />
-                <element signature="e#26894#26975#0#PHP" expanded="false" />
-                <element signature="e#26978#27061#0#PHP" expanded="false" />
-                <element signature="e#27064#27147#0#PHP" expanded="false" />
-                <element signature="e#27150#27243#0#PHP" expanded="false" />
-                <element signature="e#27621#29917#0#PHP" expanded="false" />
-                <element signature="e#27699#27971#0#PHP" expanded="false" />
-                <element signature="e#27972#29917#0#PHP" expanded="false" />
-                <element signature="e#28047#29915#0#PHP" expanded="false" />
-                <element signature="e#28069#28355#0#PHP" expanded="false" />
-                <element signature="e#28358#28544#0#PHP" expanded="false" />
-                <element signature="e#28547#28616#0#PHP" expanded="false" />
-                <element signature="e#28637#29912#0#PHP" expanded="false" />
-                <element signature="e#28730#28813#0#PHP" expanded="false" />
-                <element signature="e#29340#29902#0#PHP" expanded="false" />
-                <element signature="e#29528#29697#0#PHP" expanded="false" />
-                <element signature="e#29754#29896#0#PHP" expanded="false" />
-                <element signature="e#29941#30019#0#PHP" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/web/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+              <caret line="0" column="9" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -337,8 +115,11 @@
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/gp.sh" />
         <option value="$PROJECT_DIR$/docker/wordpress/tools/web/wp-config.php" />
-        <option value="$PROJECT_DIR$/docker-compose.yml" />
         <option value="$PROJECT_DIR$/docker/wordpress/Dockerfile" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/docker/client/Dockerfile" />
+        <option value="$PROJECT_DIR$/docker/redis/Dockerfile" />
+        <option value="$PROJECT_DIR$/docker/wordpress/READNE.md" />
       </list>
     </option>
   </component>
@@ -380,6 +161,30 @@
               <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
               <item name="wordpress" type="462c0819:PsiDirectoryNode" />
               <item name="docker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+              <item name="docker" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+              <item name="docker" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+              <item name="docker" type="462c0819:PsiDirectoryNode" />
+              <item name="memcached" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+              <item name="docker" type="462c0819:PsiDirectoryNode" />
+              <item name="redis" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
@@ -526,16 +331,15 @@
       <workItem from="1533811856074" duration="2147000" />
       <workItem from="1533820437403" duration="1431000" />
       <workItem from="1533822970653" duration="2189000" />
-      <workItem from="1533867912052" duration="5955000" />
+      <workItem from="1533867912052" duration="7373000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11722000" />
+    <option name="totallyTimeSpent" value="13140000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -583,7 +387,7 @@
           <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
           <folding>
             <element signature="e#9#14#0" expanded="false" />
-            <element signature="e#15#1114#0" expanded="false" />
+            <element signature="e#15#1047#0" expanded="false" />
             <element signature="e#27#325#0" expanded="false" />
             <element signature="e#48#59#0" expanded="false" />
             <element signature="e#74#76#0" expanded="false" />
@@ -611,20 +415,21 @@
             <element signature="e#599#615#0" expanded="false" />
             <element signature="e#620#646#0" expanded="false" />
             <element signature="e#635#646#0" expanded="false" />
-            <element signature="e#649#1114#0" expanded="false" />
+            <element signature="e#649#1047#0" expanded="false" />
             <element signature="e#671#689#0" expanded="false" />
             <element signature="e#704#707#0" expanded="false" />
             <element signature="e#728#731#0" expanded="false" />
             <element signature="e#743#771#0" expanded="false" />
             <element signature="e#785#791#0" expanded="false" />
+            <element signature="e#796#913#0" expanded="false" />
             <element signature="e#813#862#0" expanded="false" />
             <element signature="e#871#913#0" expanded="false" />
-            <element signature="e#985#1005#0" expanded="false" />
-            <element signature="e#1000#1005#0" expanded="false" />
-            <element signature="e#1010#1114#0" expanded="false" />
-            <element signature="e#1048#1050#0" expanded="false" />
-            <element signature="e#1076#1080#0" expanded="false" />
-            <element signature="e#1110#1114#0" expanded="false" />
+            <element signature="e#918#938#0" expanded="false" />
+            <element signature="e#933#938#0" expanded="false" />
+            <element signature="e#943#1047#0" expanded="false" />
+            <element signature="e#981#983#0" expanded="false" />
+            <element signature="e#1009#1013#0" expanded="false" />
+            <element signature="e#1043#1047#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -677,6 +482,7 @@
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding>
+              <element signature="e#0#56#0" expanded="false" />
               <element signature="e#68#582#0" expanded="false" />
               <element signature="e#584#634#0" expanded="false" />
               <element signature="e#636#685#0" expanded="false" />
@@ -718,7 +524,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#9#14#0" expanded="false" />
-            <element signature="e#15#1114#0" expanded="false" />
+            <element signature="e#15#1047#0" expanded="false" />
             <element signature="e#27#325#0" expanded="false" />
             <element signature="e#48#59#0" expanded="false" />
             <element signature="e#74#76#0" expanded="false" />
@@ -746,20 +552,21 @@
             <element signature="e#599#615#0" expanded="false" />
             <element signature="e#620#646#0" expanded="false" />
             <element signature="e#635#646#0" expanded="false" />
-            <element signature="e#649#1114#0" expanded="false" />
+            <element signature="e#649#1047#0" expanded="false" />
             <element signature="e#671#689#0" expanded="false" />
             <element signature="e#704#707#0" expanded="false" />
             <element signature="e#728#731#0" expanded="false" />
             <element signature="e#743#771#0" expanded="false" />
             <element signature="e#785#791#0" expanded="false" />
+            <element signature="e#796#913#0" expanded="false" />
             <element signature="e#813#862#0" expanded="false" />
             <element signature="e#871#913#0" expanded="false" />
-            <element signature="e#985#1005#0" expanded="false" />
-            <element signature="e#1000#1005#0" expanded="false" />
-            <element signature="e#1010#1114#0" expanded="false" />
-            <element signature="e#1048#1050#0" expanded="false" />
-            <element signature="e#1076#1080#0" expanded="false" />
-            <element signature="e#1110#1114#0" expanded="false" />
+            <element signature="e#918#938#0" expanded="false" />
+            <element signature="e#933#938#0" expanded="false" />
+            <element signature="e#943#1047#0" expanded="false" />
+            <element signature="e#981#983#0" expanded="false" />
+            <element signature="e#1009#1013#0" expanded="false" />
+            <element signature="e#1043#1047#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -786,7 +593,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#9#14#0" expanded="false" />
-            <element signature="e#15#1114#0" expanded="false" />
+            <element signature="e#15#1047#0" expanded="false" />
             <element signature="e#27#325#0" expanded="false" />
             <element signature="e#48#59#0" expanded="false" />
             <element signature="e#74#76#0" expanded="false" />
@@ -814,20 +621,21 @@
             <element signature="e#599#615#0" expanded="false" />
             <element signature="e#620#646#0" expanded="false" />
             <element signature="e#635#646#0" expanded="false" />
-            <element signature="e#649#1114#0" expanded="false" />
+            <element signature="e#649#1047#0" expanded="false" />
             <element signature="e#671#689#0" expanded="false" />
             <element signature="e#704#707#0" expanded="false" />
             <element signature="e#728#731#0" expanded="false" />
             <element signature="e#743#771#0" expanded="false" />
             <element signature="e#785#791#0" expanded="false" />
+            <element signature="e#796#913#0" expanded="false" />
             <element signature="e#813#862#0" expanded="false" />
             <element signature="e#871#913#0" expanded="false" />
-            <element signature="e#985#1005#0" expanded="false" />
-            <element signature="e#1000#1005#0" expanded="false" />
-            <element signature="e#1010#1114#0" expanded="false" />
-            <element signature="e#1048#1050#0" expanded="false" />
-            <element signature="e#1076#1080#0" expanded="false" />
-            <element signature="e#1110#1114#0" expanded="false" />
+            <element signature="e#918#938#0" expanded="false" />
+            <element signature="e#933#938#0" expanded="false" />
+            <element signature="e#943#1047#0" expanded="false" />
+            <element signature="e#981#983#0" expanded="false" />
+            <element signature="e#1009#1013#0" expanded="false" />
+            <element signature="e#1043#1047#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -841,14 +649,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docker/db/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="40" lean-forward="false" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
           <folding />
         </state>
       </provider>
@@ -889,23 +689,6 @@
             <folding>
               <element signature="e#0#2#0" expanded="false" />
               <element signature="e#258#399#0" expanded="false" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docker/wordpress/READNE.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding>
-              <element signature="e#68#582#0" expanded="false" />
-              <element signature="e#584#634#0" expanded="false" />
-              <element signature="e#636#685#0" expanded="false" />
-              <element signature="e#688#742#0" expanded="false" />
-              <element signature="e#746#1127#0" expanded="false" />
             </folding>
           </first_editor>
           <second_editor />
@@ -1896,10 +1679,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/docker/client/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/redis/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/memcached/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/db/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="40" lean-forward="false" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/docker-compose.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="42" column="45" lean-forward="false" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="66" />
+        <state relative-caret-position="399">
+          <caret line="41" column="50" lean-forward="false" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
           <folding>
             <element signature="e#9#14#0" expanded="false" />
             <element signature="e#27#325#0" expanded="false" />
@@ -1921,18 +1736,36 @@
             <element signature="e#500#509#0" expanded="false" />
             <element signature="e#704#707#0" expanded="false" />
             <element signature="e#728#731#0" expanded="false" />
-            <element signature="e#1048#1050#0" expanded="false" />
-            <element signature="e#1076#1080#0" expanded="false" />
-            <element signature="e#1110#1114#0" expanded="false" />
+            <element signature="e#981#983#0" expanded="false" />
+            <element signature="e#1009#1013#0" expanded="false" />
+            <element signature="e#1043#1047#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docker/wordpress/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="9" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="35" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/wordpress/READNE.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="304">
+            <caret line="45" column="5" lean-forward="false" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="58" />
+            <folding>
+              <element signature="e#0#56#0" expanded="false" />
+              <element signature="e#68#582#0" expanded="false" />
+              <element signature="e#584#634#0" expanded="false" />
+              <element signature="e#636#685#0" expanded="false" />
+              <element signature="e#688#742#0" expanded="false" />
+              <element signature="e#746#1127#0" expanded="false" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
