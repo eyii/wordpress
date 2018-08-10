@@ -12,7 +12,7 @@
 6.alias dl='docker logs xdebug'
 
 7.alias dr='docker rm $(docker ps -a -q)'
-
+alias drmi='docker rmi -f $(docker images | awk "{print $3}")'
 8.alias drun='docker run  -d --privileged -p 80:80 -p 8222:22 --name xdebug dockerliweipei/xdebug:latest'
 alias dba='ds&&dr&&gr&&dcb'
 9.alias ds='docker stop $(docker ps -a -q)'
