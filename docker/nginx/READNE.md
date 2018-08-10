@@ -44,3 +44,6 @@ RUN chmod -R 755 ./data/ &&\
      chmod 555 ./tags.php &&\
      
      docker run -d -p 80:80 dockerliweipei/xdebug:nginx7.1
+     
+     
+     
