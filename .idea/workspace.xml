@@ -18,8 +18,8 @@
       <file leaf-file-name="docker-compose.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docker-compose.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="41" column="4" lean-forward="true" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+            <state relative-caret-position="95">
+              <caret line="32" column="2" lean-forward="true" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
               <folding>
                 <element signature="e#9#14#0" expanded="false" />
                 <element signature="e#27#325#0" expanded="false" />
@@ -49,16 +49,18 @@
                 <element signature="e#599#615#0" expanded="false" />
                 <element signature="e#620#646#0" expanded="false" />
                 <element signature="e#635#646#0" expanded="false" />
-                <element signature="e#671#689#0" expanded="false" />
-                <element signature="e#704#707#0" expanded="false" />
                 <element signature="e#728#731#0" expanded="false" />
-                <element signature="e#743#771#0" expanded="false" />
-                <element signature="e#785#791#0" expanded="false" />
-                <element signature="e#811#816#0" expanded="false" />
-                <element signature="e#863#867#0" expanded="false" />
-                <element signature="e#893#895#0" expanded="false" />
-                <element signature="e#921#925#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docker/wordpress/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -68,9 +70,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>./</find>
+      <find>php7.0</find>
     </findStrings>
     <replaceStrings>
       <replace>./docker/</replace>
+      <replace>wordpress</replace>
     </replaceStrings>
   </component>
   <component name="GradleLocalSettings">
@@ -94,8 +98,9 @@
         <option value="$PROJECT_DIR$/docker/nginx/wordpress/Dockerfile" />
         <option value="$PROJECT_DIR$/offical/docker-compose.yml" />
         <option value="$PROJECT_DIR$/docker/db/Dockerfile" />
-        <option value="$PROJECT_DIR$/docker-compose.yml" />
         <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/docker/wordpress/Dockerfile" />
       </list>
     </option>
   </component>
@@ -133,6 +138,40 @@
               <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
               <item name="wordpress" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+              <item name="docker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+              <item name="docker" type="462c0819:PsiDirectoryNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+              <item name="docker" type="462c0819:PsiDirectoryNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+              <item name="docker" type="462c0819:PsiDirectoryNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+              <item name="conf.d" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+              <item name="docker" type="462c0819:PsiDirectoryNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -150,14 +189,15 @@
     <property name="aspect.path.notification.shown" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\all\php\wordpress" />
-      <recent name="D:\all\php\wordpress\docker" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\all\php\wordpress\docker\wordpress" />
       <recent name="D:\all\php\wordpress\offical" />
       <recent name="D:\all\php\wordpress" />
       <recent name="D:\all\php\wordpress\docker\nginx\wordpress" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\all\php\wordpress" />
+      <recent name="D:\all\php\wordpress\docker" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -271,15 +311,16 @@
       <workItem from="1533811856074" duration="2147000" />
       <workItem from="1533820437403" duration="1431000" />
       <workItem from="1533822970653" duration="2189000" />
-      <workItem from="1533867912052" duration="378000" />
+      <workItem from="1533867912052" duration="1547000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6145000" />
+    <option name="totallyTimeSpent" value="7314000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -293,10 +334,10 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972974" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25746268" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25746268" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -354,15 +395,7 @@
             <element signature="e#599#615#0" expanded="false" />
             <element signature="e#620#646#0" expanded="false" />
             <element signature="e#635#646#0" expanded="false" />
-            <element signature="e#671#689#0" expanded="false" />
-            <element signature="e#704#707#0" expanded="false" />
             <element signature="e#728#731#0" expanded="false" />
-            <element signature="e#743#771#0" expanded="false" />
-            <element signature="e#785#791#0" expanded="false" />
-            <element signature="e#811#816#0" expanded="false" />
-            <element signature="e#863#867#0" expanded="false" />
-            <element signature="e#893#895#0" expanded="false" />
-            <element signature="e#921#925#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -446,12 +479,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" column="44" lean-forward="false" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
-          <folding>
-            <element signature="n#!!block;n#require-dev#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#config#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#extra#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#asset-installer-paths#0;n#!!block;n#extra#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -488,15 +516,7 @@
             <element signature="e#599#615#0" expanded="false" />
             <element signature="e#620#646#0" expanded="false" />
             <element signature="e#635#646#0" expanded="false" />
-            <element signature="e#671#689#0" expanded="false" />
-            <element signature="e#704#707#0" expanded="false" />
             <element signature="e#728#731#0" expanded="false" />
-            <element signature="e#743#771#0" expanded="false" />
-            <element signature="e#785#791#0" expanded="false" />
-            <element signature="e#811#816#0" expanded="false" />
-            <element signature="e#863#867#0" expanded="false" />
-            <element signature="e#893#895#0" expanded="false" />
-            <element signature="e#921#925#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -550,15 +570,7 @@
             <element signature="e#599#615#0" expanded="false" />
             <element signature="e#620#646#0" expanded="false" />
             <element signature="e#635#646#0" expanded="false" />
-            <element signature="e#671#689#0" expanded="false" />
-            <element signature="e#704#707#0" expanded="false" />
             <element signature="e#728#731#0" expanded="false" />
-            <element signature="e#743#771#0" expanded="false" />
-            <element signature="e#785#791#0" expanded="false" />
-            <element signature="e#811#816#0" expanded="false" />
-            <element signature="e#863#867#0" expanded="false" />
-            <element signature="e#893#895#0" expanded="false" />
-            <element signature="e#921#925#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -566,13 +578,6 @@
     <entry file="file://$PROJECT_DIR$/docker/apache/server/tools/index.php" />
     <entry file="file://$PROJECT_DIR$/docker/server/tools/conf.d/default.conf" />
     <entry file="file://$PROJECT_DIR$/docker/apache/server/Dockerfile" />
-    <entry file="file://$PROJECT_DIR$/docker/wordpress/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gp.cmd">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -661,19 +666,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="15" />
-          <folding>
-            <element signature="n#!!block;n#require-dev#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#config#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#extra#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#asset-installer-paths#0;n#!!block;n#extra#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/web/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/wordpress/tools/conf.d/default.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/wordpress/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docker-compose.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="41" column="4" lean-forward="true" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+        <state relative-caret-position="95">
+          <caret line="32" column="2" lean-forward="true" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
           <folding>
             <element signature="e#9#14#0" expanded="false" />
             <element signature="e#27#325#0" expanded="false" />
@@ -703,15 +727,7 @@
             <element signature="e#599#615#0" expanded="false" />
             <element signature="e#620#646#0" expanded="false" />
             <element signature="e#635#646#0" expanded="false" />
-            <element signature="e#671#689#0" expanded="false" />
-            <element signature="e#704#707#0" expanded="false" />
             <element signature="e#728#731#0" expanded="false" />
-            <element signature="e#743#771#0" expanded="false" />
-            <element signature="e#785#791#0" expanded="false" />
-            <element signature="e#811#816#0" expanded="false" />
-            <element signature="e#863#867#0" expanded="false" />
-            <element signature="e#893#895#0" expanded="false" />
-            <element signature="e#921#925#0" expanded="false" />
           </folding>
         </state>
       </provider>

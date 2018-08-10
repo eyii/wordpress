@@ -37,6 +37,10 @@ services:
     container_name: php
     image: dockerliweipei/wordpress:php
     restart: always
+    volumes:
+      - ./wordpress/tools/conf.d/:/etc/nginx/conf.d/
+      - ./wordpress/tools/web/:/var/www/html
+      - ./wordpress/tools/nginx.conf:/etc/nginx/nginx.conf
     ports:
       - 80:80
     environment:
