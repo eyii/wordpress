@@ -30,26 +30,6 @@ services:
     image: memcached:latest
     ports:
       - 11211:11211
-  nginx:
-    build:
-      ./docker/nginx
-    hostname: nginx
-    container_name: nginx
-    image: dockerliweipei/wordpress:nginx
-    restart: always
-    volumes:
-      - ./docker/nginx/tools/conf.d:/etc/nginx/conf.d
-      - ./docker/nginx/tools/web:/var/www/html
-    ports:
-      - 80:80
-    environment:
-      WORDPRESS_DB_HOST: db
-      WORDPRESS_DB_USER: root
-      WORDPRESS_DB_PASSWORD: root
-    depends_on:
-      - fpm
-     links:
-      - fpm
   fpm:
     build:
       ./docker/fpm

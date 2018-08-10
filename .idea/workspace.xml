@@ -18,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="docker-compose.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="docker-compose.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docker-compose.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="53" column="4" lean-forward="false" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
+            <state relative-caret-position="323">
+              <caret line="50" column="5" lean-forward="false" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
               <folding>
                 <element signature="e#9#14#0" expanded="false" />
                 <element signature="e#27#325#0" expanded="false" />
@@ -52,7 +52,6 @@
                 <element signature="e#599#615#0" expanded="false" />
                 <element signature="e#620#646#0" expanded="false" />
                 <element signature="e#635#646#0" expanded="false" />
-                <element signature="e#649#1094#0" expanded="false" />
                 <element signature="e#673#687#0" expanded="false" />
                 <element signature="e#702#707#0" expanded="false" />
                 <element signature="e#728#733#0" expanded="false" />
@@ -67,17 +66,13 @@
                 <element signature="e#977#979#0" expanded="false" />
                 <element signature="e#1005#1009#0" expanded="false" />
                 <element signature="e#1039#1043#0" expanded="false" />
-                <element signature="e#1048#1094#0" expanded="false" />
                 <element signature="e#1068#1071#0" expanded="false" />
-                <element signature="e#1077#1094#0" expanded="false" />
-                <element signature="e#1091#1094#0" expanded="false" />
-                <element signature="e#1119#1131#0" expanded="false" />
-                <element signature="e#1146#1149#0" expanded="false" />
-                <element signature="e#1170#1173#0" expanded="false" />
-                <element signature="e#1185#1213#0" expanded="false" />
-                <element signature="e#1227#1233#0" expanded="false" />
-                <element signature="e#1238#1262#0" expanded="false" />
-                <element signature="e#1253#1262#0" expanded="false" />
+                <element signature="e#1147#1150#0" expanded="false" />
+                <element signature="e#1171#1174#0" expanded="false" />
+                <element signature="e#1186#1214#0" expanded="false" />
+                <element signature="e#1228#1234#0" expanded="false" />
+                <element signature="e#1239#1263#0" expanded="false" />
+                <element signature="e#1254#1263#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -113,7 +108,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="www.conf" pinned="false" current-in-tab="true">
+      <file leaf-file-name="www.conf" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docker/fpm/www.conf">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="439">
@@ -181,13 +176,13 @@
         <option value="$PROJECT_DIR$/gp2.cmd" />
         <option value="$PROJECT_DIR$/_netrc" />
         <option value="$PROJECT_DIR$/gp.cmd" />
-        <option value="$PROJECT_DIR$/docker-compose.yml" />
         <option value="$PROJECT_DIR$/docker/nginx/Dockerfile" />
         <option value="$PROJECT_DIR$/docker/nginx/tools/conf.d/default.conf" />
         <option value="$PROJECT_DIR$/docker/fpm/php-fpm.conf" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/docker/fpm/Dockerfile" />
         <option value="$PROJECT_DIR$/docker/fpm/www.conf" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
       </list>
     </option>
   </component>
@@ -378,12 +373,12 @@
       <workItem from="1533822970653" duration="2189000" />
       <workItem from="1533867912052" duration="10894000" />
       <workItem from="1533882732744" duration="125000" />
-      <workItem from="1533882910351" duration="15277000" />
+      <workItem from="1533882910351" duration="15399000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32063000" />
+    <option name="totallyTimeSpent" value="32185000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -400,10 +395,10 @@
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972974" sideWeight="0.49573562" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26279318" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26279318" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2738,10 +2733,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+    <entry file="file://$PROJECT_DIR$/docker/fpm/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="53" column="4" lean-forward="false" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/fpm/www.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="50" column="5" lean-forward="false" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
           <folding>
             <element signature="e#9#14#0" expanded="false" />
             <element signature="e#27#325#0" expanded="false" />
@@ -2771,7 +2782,6 @@
             <element signature="e#599#615#0" expanded="false" />
             <element signature="e#620#646#0" expanded="false" />
             <element signature="e#635#646#0" expanded="false" />
-            <element signature="e#649#1094#0" expanded="false" />
             <element signature="e#673#687#0" expanded="false" />
             <element signature="e#702#707#0" expanded="false" />
             <element signature="e#728#733#0" expanded="false" />
@@ -2786,34 +2796,14 @@
             <element signature="e#977#979#0" expanded="false" />
             <element signature="e#1005#1009#0" expanded="false" />
             <element signature="e#1039#1043#0" expanded="false" />
-            <element signature="e#1048#1094#0" expanded="false" />
             <element signature="e#1068#1071#0" expanded="false" />
-            <element signature="e#1077#1094#0" expanded="false" />
-            <element signature="e#1091#1094#0" expanded="false" />
-            <element signature="e#1119#1131#0" expanded="false" />
-            <element signature="e#1146#1149#0" expanded="false" />
-            <element signature="e#1170#1173#0" expanded="false" />
-            <element signature="e#1185#1213#0" expanded="false" />
-            <element signature="e#1227#1233#0" expanded="false" />
-            <element signature="e#1238#1262#0" expanded="false" />
-            <element signature="e#1253#1262#0" expanded="false" />
+            <element signature="e#1147#1150#0" expanded="false" />
+            <element signature="e#1171#1174#0" expanded="false" />
+            <element signature="e#1186#1214#0" expanded="false" />
+            <element signature="e#1228#1234#0" expanded="false" />
+            <element signature="e#1239#1263#0" expanded="false" />
+            <element signature="e#1254#1263#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docker/fpm/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docker/fpm/www.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
