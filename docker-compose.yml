@@ -52,7 +52,7 @@ services:
     build:
       ./docker/fpm
     hostname: fpm
-    container_name: php
+    container_name: fpm
     image: dockerliweipei/wordpress:fpm
     restart: always
     ports:
