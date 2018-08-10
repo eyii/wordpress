@@ -46,4 +46,15 @@ services:
       WORDPRESS_DB_HOST: db
       WORDPRESS_DB_USER: root
       WORDPRESS_DB_PASSWORD: root
-
+    depends_on:
+      - fpm
+  fpm:
+    build:
+      ./docker/fpm
+    hostname: fpm
+    container_name: php
+    image: dockerliweipei/wordpress:fpm
+    restart: always
+    volumes:
+    ports:
+      - 9000:9000
