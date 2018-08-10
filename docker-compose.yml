@@ -51,6 +51,9 @@ services:
       - ./docker/nginx/tools/web:/var/www/html
     ports:
       - 80:80
+    links:
+      - fpm
+      - db
     environment:
       WORDPRESS_DB_HOST: db
       WORDPRESS_DB_USER: root
