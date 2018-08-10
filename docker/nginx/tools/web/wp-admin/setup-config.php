@@ -1,29 +1,11 @@
 <?php
-/**
- * Retrieves and creates the wp-config.php file.
- *
- * The permissions for the base directory must allow for writing files in order
- * for the wp-config.php to be created using this page.
- *
- * @package WordPress
- * @subpackage Administration
- */
 
-/**
- * We are installing.
- */
 define('WP_INSTALLING', true);
 
-/**
- * We are blissfully unaware of anything.
- */
+
 define('WP_SETUP_CONFIG', true);
 
-/**
- * Disable error reporting
- *
- * Set this to error_reporting( -1 ) for debugging
- */
+
 error_reporting(0);
 
 if ( ! defined( 'ABSPATH' ) ) {
@@ -129,7 +111,6 @@ switch($step) {
 			break;
 		}
 
-		// Deliberately fall through if we can't reach the translations API.
 
 	case 0:
 		if ( ! empty( $language ) ) {
