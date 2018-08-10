@@ -4,6 +4,7 @@ services:
     build:
       ./docker/fpm
     hostname: fpm
+    privileged: true
     container_name: fpm
     image: dockerliweipei/wordpress:fpm
     restart: always
@@ -13,6 +14,7 @@ services:
     build:
       ./docker/nginx
     hostname: nginx
+    privileged: true
     container_name: nginx
     image: dockerliweipei/wordpress:nginx
     restart: always
