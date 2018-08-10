@@ -49,7 +49,7 @@ services:
     depends_on:
       - fpm
      links:
-     - fpm
+      - fpm
   fpm:
     build:
       ./docker/fpm
