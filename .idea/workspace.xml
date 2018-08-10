@@ -18,12 +18,97 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="php-fpm.conf" pinned="false" current-in-tab="true">
+      <file leaf-file-name="docker-compose.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="53" column="4" lean-forward="false" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
+              <folding>
+                <element signature="e#9#14#0" expanded="false" />
+                <element signature="e#27#325#0" expanded="false" />
+                <element signature="e#48#59#0" expanded="false" />
+                <element signature="e#74#76#0" expanded="false" />
+                <element signature="e#97#99#0" expanded="false" />
+                <element signature="e#111#138#0" expanded="false" />
+                <element signature="e#143#179#0" expanded="false" />
+                <element signature="e#160#179#0" expanded="false" />
+                <element signature="e#184#275#0" expanded="false" />
+                <element signature="e#224#228#0" expanded="false" />
+                <element signature="e#251#255#0" expanded="false" />
+                <element signature="e#268#275#0" expanded="false" />
+                <element signature="e#280#304#0" expanded="false" />
+                <element signature="e#295#304#0" expanded="false" />
+                <element signature="e#319#325#0" expanded="false" />
+                <element signature="e#328#509#0" expanded="false" />
+                <element signature="e#351#365#0" expanded="false" />
+                <element signature="e#386#391#0" expanded="false" />
+                <element signature="e#403#415#0" expanded="false" />
+                <element signature="e#429#480#0" expanded="false" />
+                <element signature="e#485#509#0" expanded="false" />
+                <element signature="e#500#509#0" expanded="false" />
+                <element signature="e#512#646#0" expanded="false" />
+                <element signature="e#539#557#0" expanded="false" />
+                <element signature="e#578#587#0" expanded="false" />
+                <element signature="e#599#615#0" expanded="false" />
+                <element signature="e#620#646#0" expanded="false" />
+                <element signature="e#635#646#0" expanded="false" />
+                <element signature="e#649#1094#0" expanded="false" />
+                <element signature="e#673#687#0" expanded="false" />
+                <element signature="e#702#707#0" expanded="false" />
+                <element signature="e#728#733#0" expanded="false" />
+                <element signature="e#745#775#0" expanded="false" />
+                <element signature="e#789#795#0" expanded="false" />
+                <element signature="e#800#909#0" expanded="false" />
+                <element signature="e#817#862#0" expanded="false" />
+                <element signature="e#871#909#0" expanded="false" />
+                <element signature="e#914#934#0" expanded="false" />
+                <element signature="e#929#934#0" expanded="false" />
+                <element signature="e#939#1043#0" expanded="false" />
+                <element signature="e#977#979#0" expanded="false" />
+                <element signature="e#1005#1009#0" expanded="false" />
+                <element signature="e#1039#1043#0" expanded="false" />
+                <element signature="e#1048#1094#0" expanded="false" />
+                <element signature="e#1068#1071#0" expanded="false" />
+                <element signature="e#1077#1094#0" expanded="false" />
+                <element signature="e#1091#1094#0" expanded="false" />
+                <element signature="e#1119#1131#0" expanded="false" />
+                <element signature="e#1146#1149#0" expanded="false" />
+                <element signature="e#1170#1173#0" expanded="false" />
+                <element signature="e#1185#1213#0" expanded="false" />
+                <element signature="e#1227#1233#0" expanded="false" />
+                <element signature="e#1238#1262#0" expanded="false" />
+                <element signature="e#1253#1262#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="php-fpm.conf" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docker/fpm/php-fpm.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="95">
+              <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="266">
+                <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="58" />
+                <folding>
+                  <element signature="e#754#761#0" expanded="false" />
+                  <element signature="e#754#761#0" expanded="false" />
+                  <element signature="e#762#872#0" expanded="false" />
+                  <element signature="e#766#872#0" expanded="false" />
+                  <element signature="e#887#987#0" expanded="false" />
+                  <element signature="e#1000#1006#0" expanded="false" />
+                </folding>
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -31,18 +116,18 @@
       <file leaf-file-name="www.conf" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docker/fpm/www.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            <state relative-caret-position="209">
+              <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docker/fpm/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="133">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -56,6 +141,7 @@
       <find>php7.0</find>
       <find>define('WPLANG', 'zh_CN');</find>
       <find>WPLANG</find>
+      <find>dcb</find>
     </findStrings>
     <replaceStrings>
       <replace>./docker/</replace>
@@ -97,10 +183,10 @@
         <option value="$PROJECT_DIR$/gp.cmd" />
         <option value="$PROJECT_DIR$/docker-compose.yml" />
         <option value="$PROJECT_DIR$/docker/nginx/Dockerfile" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/docker/nginx/tools/conf.d/default.conf" />
-        <option value="$PROJECT_DIR$/docker/fpm/php-fpm.conf" />
         <option value="$PROJECT_DIR$/docker/fpm/www.conf" />
+        <option value="$PROJECT_DIR$/docker/fpm/php-fpm.conf" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/docker/fpm/Dockerfile" />
       </list>
     </option>
@@ -292,12 +378,12 @@
       <workItem from="1533822970653" duration="2189000" />
       <workItem from="1533867912052" duration="10894000" />
       <workItem from="1533882732744" duration="125000" />
-      <workItem from="1533882910351" duration="14766000" />
+      <workItem from="1533882910351" duration="15159000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31552000" />
+    <option name="totallyTimeSpent" value="31945000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -2603,16 +2689,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/docker/nginx/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/conf.d/default.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/nginx.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/fpm/www.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/fpm/php-fpm.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="152">
-            <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="25" />
+          <first_editor relative-caret-position="266">
+            <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="58" />
             <folding>
-              <element signature="e#565#572#0" expanded="false" />
-              <element signature="e#573#683#0" expanded="false" />
-              <element signature="e#577#683#0" expanded="false" />
-              <element signature="e#698#798#0" expanded="false" />
+              <element signature="e#754#761#0" expanded="false" />
+              <element signature="e#754#761#0" expanded="false" />
+              <element signature="e#762#872#0" expanded="false" />
+              <element signature="e#766#872#0" expanded="false" />
+              <element signature="e#887#987#0" expanded="false" />
+              <element signature="e#1000#1006#0" expanded="false" />
             </folding>
           </first_editor>
           <second_editor />
@@ -2621,8 +2749,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docker-compose.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="54" column="18" lean-forward="false" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
+        <state relative-caret-position="133">
+          <caret line="53" column="4" lean-forward="false" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
           <folding>
             <element signature="e#9#14#0" expanded="false" />
             <element signature="e#27#325#0" expanded="false" />
@@ -2652,56 +2780,40 @@
             <element signature="e#599#615#0" expanded="false" />
             <element signature="e#620#646#0" expanded="false" />
             <element signature="e#635#646#0" expanded="false" />
+            <element signature="e#649#1094#0" expanded="false" />
+            <element signature="e#673#687#0" expanded="false" />
+            <element signature="e#702#707#0" expanded="false" />
+            <element signature="e#728#733#0" expanded="false" />
+            <element signature="e#745#775#0" expanded="false" />
+            <element signature="e#789#795#0" expanded="false" />
+            <element signature="e#800#909#0" expanded="false" />
+            <element signature="e#817#862#0" expanded="false" />
+            <element signature="e#871#909#0" expanded="false" />
+            <element signature="e#914#934#0" expanded="false" />
             <element signature="e#929#934#0" expanded="false" />
+            <element signature="e#939#1043#0" expanded="false" />
             <element signature="e#977#979#0" expanded="false" />
+            <element signature="e#1005#1009#0" expanded="false" />
+            <element signature="e#1039#1043#0" expanded="false" />
+            <element signature="e#1048#1094#0" expanded="false" />
+            <element signature="e#1068#1071#0" expanded="false" />
+            <element signature="e#1077#1094#0" expanded="false" />
+            <element signature="e#1091#1094#0" expanded="false" />
+            <element signature="e#1119#1131#0" expanded="false" />
+            <element signature="e#1146#1149#0" expanded="false" />
+            <element signature="e#1170#1173#0" expanded="false" />
+            <element signature="e#1185#1213#0" expanded="false" />
+            <element signature="e#1227#1233#0" expanded="false" />
+            <element signature="e#1238#1262#0" expanded="false" />
+            <element signature="e#1253#1262#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docker/nginx/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/conf.d/default.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/nginx.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docker/fpm/www.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docker/fpm/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docker/fpm/php-fpm.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="133">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>

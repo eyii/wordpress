@@ -12,6 +12,14 @@ alias drmi='docker rmi -f $(docker images | awk "{print $3}")'
 alias drun='docker run  -d --privileged -p 80:80 -p 8222:22 --name xdebug dockerliweipei/xdebug:latest'
 alias dba='ds&&dr&&gr&&dcb'
 alias ds='docker stop $(docker ps -a -q)'
+alias dcb='docker-compose up -d --build  --force-recreate'
+alias dcp='docker-compose push'
+alias de='docker exec -it ${ver} bash'
+alias dis='docker images'
+alias dl='docker logs ${ver}'
+
+
+
 source /root/.bashrc
 
 ###win7
