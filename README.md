@@ -1,4 +1,8 @@
 #### shell
+sudo tee /root/.bashrc<<-'EOF'
+
+EOF
+
 vi /root/.bashrc
 alias dps='docker ps'
 alias da='docker attach xdebug'

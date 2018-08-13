@@ -1,5 +1,5 @@
-sudo mkdir -p /etc/docker
-sudo tee /root/.bashrc<<-'EOF'
+
+
     volumes:
       - ./client/tools/web:/var/www/html
       - ./client/tools/conf.d/:/etc/nginx/conf.d/
